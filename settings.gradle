@@ -1,0 +1,3 @@
+rootProject.name='dummyproject2'
+include ':app'
+include ':mylibrary'
